@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+section
+{
+    height: 500px;
+    margin-bottom: 20%;
+}
+.sec3
+{
+    height: 300px;
+}
+#sec1
+{
+    background-image: url("website/sc1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+}
+#vt
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 130%;
+}
+#pk
+{
+   color:  deeppink;
+   font-size: 500%;
+}
+.div1 img
+{
+    width: 100%;
+}
+#w
+{
+    margin-top: 10%;
+    margin-left: 8%;
+}
+.div1
+{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+}
+#e
+{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    border-radius: 6px;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+#t img
+{
+    width: 100%;
+}
+.div2
+{
+    width: 40%;
+    float: left;
+    margin-top: 7%;
+    margin-left: 5%;
+}
+#rt
+{
+    margin-top: 20%;
+}
+#y
+{
+    font-size: 500% ;
+}
+#yt
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+}
+#h
+{
+    background-color:deeppink;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.sec2
+{
+    margin-top: 10%;
+    background-image: url("website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+#ct
+{
+    margin-top: 30%;
+   text-align: center;
+   font-size: 40px;
+}
+.d img
+{
+    width: 25%;
+    float: left;
+    margin-top: 5%;
+}
+#di img
+{
+    margin-left: 10%;
+}
+#ci img
+{
+    margin-right: 10%;
+}
+#bi img
+{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.sec3
+{
+    background-image: url("website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.sec4
+{
+    text-align: center;
+}
+#jk
+{
+   font-size: 30px;
+   margin-bottom: 15px;
+}
+#uk
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: deeppink;
+}
+#hk
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: deepskyblue;
+}
+#yok
+{
+    margin-bottom: 70px;
+}
+#rtk
+{
+    background-image: linear-gradient(rgba(255, 20, 145, 0.562),pink);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 1%;
+}
+.sec4
+{
+    background-image: url("website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+footer
+{
+    text-align: center;
+    font-family: monospace;
+}
